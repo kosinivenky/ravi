@@ -1,0 +1,25 @@
+157.48.82.193 - - [31/May/2022:05:33:05 +0000] "GET / HTTP/1.1" 200 11257
+157.48.82.193 - - [31/May/2022:05:33:07 +0000] "GET /tomcat.css HTTP/1.1" 200 5542
+157.48.82.193 - - [31/May/2022:05:33:07 +0000] "GET /tomcat.svg HTTP/1.1" 200 67795
+157.48.82.193 - - [31/May/2022:05:33:08 +0000] "GET /bg-nav.png HTTP/1.1" 200 1401
+157.48.82.193 - - [31/May/2022:05:33:08 +0000] "GET /bg-upper.png HTTP/1.1" 200 3103
+157.48.82.193 - - [31/May/2022:05:33:08 +0000] "GET /bg-middle.png HTTP/1.1" 200 1918
+157.48.82.193 - - [31/May/2022:05:33:08 +0000] "GET /asf-logo-wide.svg HTTP/1.1" 200 27235
+157.48.82.193 - - [31/May/2022:05:33:08 +0000] "GET /bg-button.png HTTP/1.1" 200 713
+157.48.82.193 - - [31/May/2022:05:33:09 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+157.48.82.193 - - [31/May/2022:05:33:10 +0000] "GET /manager/html HTTP/1.1" 401 2499
+157.48.82.193 - tomcat [31/May/2022:05:33:18 +0000] "GET /manager/html HTTP/1.1" 200 17777
+157.48.82.193 - - [31/May/2022:05:33:19 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 200 67795
+157.48.82.193 - - [31/May/2022:05:33:19 +0000] "GET /manager/css/manager.css HTTP/1.1" 200 2806
+157.48.82.193 - - [31/May/2022:05:33:19 +0000] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20486
+3.86.70.41 - tomcat [31/May/2022:05:48:18 +0000] "GET /manager/text/list HTTP/1.1" 200 196
+3.86.70.41 - tomcat [31/May/2022:05:48:18 +0000] "PUT /manager/text/deploy?path=%2Fmyweb HTTP/1.1" 200 62
+3.86.70.41 - tomcat [31/May/2022:05:48:58 +0000] "GET /manager/text/list HTTP/1.1" 200 219
+3.86.70.41 - tomcat [31/May/2022:05:48:58 +0000] "GET /manager/text/list HTTP/1.1" 200 219
+3.86.70.41 - tomcat [31/May/2022:05:48:59 +0000] "GET /manager/text/undeploy?path=%2Fmyweb HTTP/1.1" 200 64
+3.86.70.41 - tomcat [31/May/2022:05:48:59 +0000] "PUT /manager/text/deploy?path=%2Fmyweb HTTP/1.1" 200 62
+157.48.82.193 - tomcat [31/May/2022:05:55:27 +0000] "GET /manager/html HTTP/1.1" 200 18245
+157.48.82.193 - tomcat [31/May/2022:05:55:30 +0000] "GET /manager/html HTTP/1.1" 200 18245
+157.48.82.193 - - [31/May/2022:05:55:54 +0000] "GET /myweb/ HTTP/1.1" 200 122
+192.241.219.154 - - [31/May/2022:06:08:48 +0000] "-" 400 1971
+71.6.232.6 - - [31/May/2022:06:09:44 +0000] "GET / HTTP/1.1" 200 11257
